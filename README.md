@@ -52,6 +52,3 @@ To run the project, follow these steps:
 4. Run the notebook cells sequentially to perform the data analysis, segmentation, and predictive modeling tasks.
 
 Note: The code assumes that the data files are located in the `Data` folder within the project directory. Please make sure to update the file paths if the data files are stored elsewhere.
-
-## Results and Discussion
-The project aims to provide insights into the characteristics of the company's customers and predict potential customers for a marketing campaign. The customer segmentation report generated in Part 1 helps understand the
