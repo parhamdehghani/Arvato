@@ -52,3 +52,11 @@ To run the project, follow these steps:
 4. Run the notebook cells sequentially to perform the data analysis, segmentation, and predictive modeling tasks.
 
 Note: The code assumes that the data files are located in the `Data` folder within the project directory. Please make sure to update the file paths if the data files are stored elsewhere.
+
+## Acknowledgment:
+
+We would like to express our sincere gratitude to Udacity for their mentorship and guidance, and to Arvato Financial Services for providing the datasets that made this project possible. We also extend our appreciation to the open-source community for their contributions in developing the libraries and frameworks that played a crucial role in our analysis.
+
+## Blog Post
+You can find a detailed report on this project following this post on Medium:
+https://medium.com/@p.dehghani88/customer-segmentation-report-for-arvato-financial-services-5dacc0d8166b
